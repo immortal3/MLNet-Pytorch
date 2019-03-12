@@ -2,6 +2,9 @@
 
 Implementation of A Deep Multi-Level Network for Saliency Prediction in Pytorch
 
+### Description : 
+As Human, We only focus on certain part of Image which is called salient region. This Project predict Saliency map of given Image which is useful in many areas like Robotics, Image-aware editing, caption generation, fast-response systems.
+
 ##### For Mobile Users: https://nbviewer.jupyter.org/github/immortal3/MLNet-Pytorch/blob/master/MLNet_Pytorch.ipynb
 
 Notebook is directly runnable to Google colab.
